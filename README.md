@@ -1,7 +1,7 @@
 # Getting and Cleaning Data Coursera
 Final project for Coursera Getting And Cleaning Data course
 
-June 18, 2017
+Lisa Voss, June 18, 2017
 
 README created using https://jbt.github.io/markdown-editor 
 
