@@ -210,7 +210,9 @@ Any commercial use is prohibited. Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca On
 [3] _Google's R Style Guide - Google Search_. (2017). _Goo.gl_. Retrieved 6 June 2017, from https://goo.gl/woDc4i
 
 [4] Hood, D. _Getting and cleaning the assignment_ Retrieved 6 June 2017, from https://goo.gl/PWZPGs
+
 &nbsp;
+
 README created using https://jbt.github.io/markdown-editor 
 
 
