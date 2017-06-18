@@ -128,24 +128,24 @@ For each variable, the table below gives the R data structure and a small sample
 
 | ITEM NAME | TYPE | LENGTH | SIZE | VALUE | SAMPLE |
 |:--- |:--- |:---:|---:|:--- |:--- |
-activity.all | tbl_df | 1 | 41 KB | 10299 obs. of 1 var. | 5 5 5 5 5 ...| 
-activity.key | data.frame | 2 | 1.2 KB | 6 obs. of 2 vars.  | "walking" "walking_upstairs" "walking_do ... | 
-activity.test | data.frame | 1 | 12 KB | 2947 obs. of 1 var. | 5 5 5 5 5 ... | 
-activity.train | data.frame | 1 | 29 KB | 7352 obs. of 1 var. | 5 5 5 5 5 ... | 
-data.all | tbl_df | 563 | 44 MB | 10299 obs.  563 var. | 5 1 0.28858 -0.02029 -0.13291 ... | 
-data.mean.std | tbl_df | 68 | 5.3 MB | 10299 obs. 68 vars. | "standing" 1 0.28858 -0.0202942 ... | 
-feature.all | tbl_df | 561 | 44 MB | 10299 obs. 561 vars. | 0.28858 -0.02029 -0.13291 ...  | 
-feature.names | data.frame | 2 | 41 KB | 561 obs. of 2 vars. | "tBodyAcc-mean()-X" "tBodyAcc-mean()-Y" ...  | 
-feature.test | data.frame | 561 | 13 MB | 2947 obs. 561 vars. | 0.25718 -0.02329 -0.01465 ... | 
-feature.train | data.frame | 561 | 32 MB | 7352 obs.  561 vars. | 0.28858 -0.02029 -0.13291 ...  | 
+activity.all | tbl_df | 1 | 41 KB | 10299 obs. 1 var. | 5 5 5 5 5 ...| 
+activity.key | data.frame | 2 | 1.2 KB | 6 obs. 2 var. | "walking" "walking_upstairs" "walking_do ... | 
+activity.test | data.frame | 1 | 12 KB | 2947 obs. 1 var. | 5 5 5 5 5 ... | 
+activity.train | data.frame | 1 | 29 KB | 7352 obs. 1 var. | 5 5 5 5 5 ... | 
+data.all | tbl_df | 563 | 44 MB | 10299 obs. 563 var. | 5 1 0.28858 -0.02029 -0.13291 ... | 
+data.mean.std | tbl_df | 68 | 5.3 MB | 10299 obs. 68 var. | "standing" 1 0.28858 -0.0202942 ... | 
+feature.all | tbl_df | 561 | 44 MB | 10299 obs. 561 var. | 0.28858 -0.02029 -0.13291 ...  | 
+feature.names | data.frame | 2 | 41 KB | 561 obs. 2 var. | "tBodyAcc-mean()-X" "tBodyAcc-mean()-Y" ... | 
+feature.test | data.frame | 561 | 13 MB | 2947 obs. 561 var. | 0.25718 -0.02329 -0.01465 ... | 
+feature.train | data.frame | 561 | 32 MB | 7352 obs. 561 var. | 0.28858 -0.02029 -0.13291 ...  | 
 file.url | character | 1 | 216 B | url | https://d396qusza40orc.cloudfront.net/get ... | 
-finaltidy | grouped_df | 68 | 105 KB | 180 obs. of 68 vars. | "walking" 1 0.27733 -0.01738 ... | 
+finaltidy | grouped_df | 68 | 105 KB | 180 obs. 68 var. | "walking" 1 0.27733 -0.01738 ... | 
 index.mean.std | logical | 563 | 2.2 KB | logi [1:563]  | TRUE TRUE TRUE TRUE TRUE ... | 
-names.all | character | 563 | 38 KB | chr [1:563]  | "activity.name"  "subject.id"  "tBodyAcc-mean()-X" .. | 
-subj.test | data.frame | 1 | 12 KB | 2947 obs. of 1 var. | 2 2 2 2 2 ... | 
-subj.train | data.frame | 1 | 29 KB | 7352 obs. of 1 var. | 1 1 1 1 1 ... | 
-subject.all | tbl_df | 1 | 41 KB | 10299 obs. of 1 var. | 1 1 1 1 1 ... | 
-var.names.descriptive | character | 68 | 5.3 KB | chr [1:68]  | "activity.name"  "subject.id"  "time.body.acc.mean.x" ...|
+names.all | chr | 563 | 38 KB | chr [1:563]  | "activity.name"  "subject.id"  "tBodyAcc-mean()-X" .. | 
+subj.test | data.frame | 1 | 12 KB | 2947 obs. 1 var. | 2 2 2 2 2 ... | 
+subj.train | data.frame | 1 | 29 KB | 7352 obs. 1 var. | 1 1 1 1 1 ... | 
+subject.all | tbl_df | 1 | 41 KB | 10299 obs. 1 var. | 1 1 1 1 1 ... | 
+var.names.descriptive | chr | 68 | 5.3 KB | chr [1:68] | "activity.name"  "subject.id"  "time.body.acc.mean.x" ..|
 
 &nbsp;
 
