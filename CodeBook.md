@@ -136,8 +136,8 @@ data.all | tbl_df | 563 | 44 M | 10299 obs. 563 var. | 5 1 0.28858 -0.02029 -0.1
 data.mean.std | tbl_df | 68 | 5.3 M | 10299 obs. 68 var. | "standing" 1 0.28858 -0.0202942 ... | 
 feature.all | tbl_df | 561 | 44 M | 10299 obs. 561 var. | 0.28858 -0.02029 -0.13291 ...  | 
 feature.names | data.frame | 2 | 41 K | 561 obs. 2 var. | "tBodyAcc-mean()-X" "tBodyAcc-mean()-Y" ... | 
-feature.test | data.frame | 561 | 13 M | 2947 obs. 561 var. | 0.25718 -0.02329 -0.01465 ... | 
-feature.train | data.frame | 561 | 32 M | 7352 obs. 561 var. | 0.28858 -0.02029 -0.13291 ...  | 
+feature.test | data.frame | 561 |13 M| 2947 obs. 561 var. | 0.25718 -0.02329 -0.01465 ... | 
+feature.train | data.frame | 561 |32 M| 7352 obs. 561 var. | 0.28858 -0.02029 -0.13291 ...  | 
 file.url | character | 1 | 216 B | url | https://d396qusza40orc.cloudfront.net/get ... | 
 finaltidy | grouped_df | 68 | 105 K | 180 obs. 68 var. | "walking" 1 0.27733 -0.01738 ... | 
 index.mean.std | logical | 563 | 2.2 K | logi [1:563]  | TRUE TRUE TRUE TRUE TRUE ... | 
