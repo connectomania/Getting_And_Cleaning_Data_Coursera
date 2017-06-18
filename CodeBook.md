@@ -1,7 +1,7 @@
 
 # CodeBook: Coursera Getting and Cleaning Data
 ### Peer graded assignment: Course final project
-June 18, 2017
+Lisa Voss, June 18, 2017
 
 CodeBook created using https://jbt.github.io/markdown-editor 
 
