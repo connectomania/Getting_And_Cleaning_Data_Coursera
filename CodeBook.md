@@ -1,5 +1,5 @@
 
-# CodeBooK: Coursera Getting and Cleaning Data
+# CodeBook: Coursera Getting and Cleaning Data
 ### Peer graded assignment: Course final project
 Lisa Voss,  June 2017
 
