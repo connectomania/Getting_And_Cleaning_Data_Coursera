@@ -1,4 +1,4 @@
-# Getting_And_Cleaning_Data_Coursera
+# Getting and Cleaning Data Coursera
 Final project for Coursera Getting And Cleaning Data course
 
 Lisa Voss,  June 2017
