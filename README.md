@@ -13,8 +13,7 @@ Desired outcome is a tidy dataset that can be used for later analysis.
 ### Deliverables
 There are four main deliverables for this project:
 1. Tidy dataset as described below; the space-delimited output file in the GitHub repository is called "finaltidy.txt"; 
-
-_NOTE:_ Use "header = TRUE" when reading this file into R
+	_NOTE:_ Use "header = TRUE" when reading this file into R
 2. Link to a Github repository with the R script for performing the analysis
 3. Codebook called CodeBook.md describing the variables, data, and transformations performed to clean up the data (in the repository)
 4. README.md in the repo with the R script
