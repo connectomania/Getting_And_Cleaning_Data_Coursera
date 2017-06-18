@@ -126,7 +126,7 @@ var.names.descriptive | interim | renamed features used for final output |
 
 For each variable, the table below gives the R data structure and a small sample of the data.
 
-| ITEM NAME | TYPE | LENGTH | SIZE | VALUE | SAMPLE |
+| ITEM NAME | TYPE | LEN | SIZE | VALUE | SAMPLE |
 |:--- |:--- |:---:|---:|:--- |:--- |
 activity.all | tbl_df | 1 | 41K | 10299 obs. 1 var. | 5 5 5 5 5 ...| 
 activity.key | data.frame | 2 | 1.2K | 6 obs. 2 var. | "walking" "walking_upstairs" "walking_do ... | 
